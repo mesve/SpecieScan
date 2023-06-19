@@ -1,6 +1,6 @@
 # Preprocessing for SpecieScan 
 
-## R-code adapted from Codlin et al. 2022, modified, and further developed by E. Végh & K. Douka
+## R-code adapted from Codlin et al. 2022,  and modified by E. Végh & K. Douka
 
 ```
 
@@ -19,7 +19,7 @@ library("MALDIquantForeign")
 ### Windows:
 spectra <- importBrukerFlex("D:\\Documents\\MALDI_FOLDER", verbose = FALSE)
 ### Mac:
-spectra <- importBrukerFlex("~/Documents/Vienna/ZooMS_postdoc/MALDI_RAW_DATA/2022_12_02_MOR_ASH_Batch_ASH1-11_ND_BAL_VAL01_AZooMS_EV", verbose = FALSE) #Delete "User/user_name" before the folder it was saved in 
+spectra <- importBrukerFlex("~/Documents/MALDI_FOLDER", verbose = FALSE) #Delete "User/user_name" before the folder it was saved in 
 
 # EXPORT mzML to rename files
 ## Windows:
@@ -27,7 +27,7 @@ exportMzMl(spectra, path = "D:\\Documents\\MALDI_FOLDER-Converted")
 ## Mac:
 exportMzMl(spectra, path = "~/Documents/Vienna/ZooMS_postdoc/MALDI_RAW_DATA/MALDI_FOLDER_converted")
 
-# RENAME TECHNICAL REPLICATES IN YOUR FOLDER SO THEY ALL HAVE A UNIQUE IDENTIFIER (EITHER MANUALLY ONE-BY-ONE OR USE PYTHON CODE "RENAME_FILES") -- IMPORT THE MZML OR TXT DATA WITH A UNIQUE IDENTIFIER FOR EACH SAMPLE
+# RENAME TECHNICAL REPLICATES IN YOUR FOLDER SO THEY ALL HAVE A UNIQUE IDENTIFIER (EITHER MANUALLY ONE-BY-ONE OR USE PYTHON CODE RENAME_FILES IN THE REPOSITORY) -- IMPORT THE MZML OR TXT DATA WITH A UNIQUE IDENTIFIER FOR EACH SAMPLE
 
 
 # IMPORT RENAMED FILES
@@ -38,7 +38,7 @@ exportMzMl(spectra, path = "~/Documents/Vienna/ZooMS_postdoc/MALDI_RAW_DATA/MALD
 spectra<-importMzMl("D:\\Documents\\MALDI_FOLDER-Converted")
 
 ## Mac:
-spectra<-importMzMl("~/Documents/Vienna/ZooMS_postdoc/MALDI_RAW_DATA/MOR-ASH_converted/MOR-ASH_renamed")
+spectra<-importMzMl("~/Documents/...")
 
 ```
 
@@ -130,7 +130,7 @@ spectraHQ <- spectra[-remove] #this removes individual spectra in the object cal
 ```
 # Averaging replicates
 
-## In our files: "ID#_spot.mzML"
+## In our files: "ID#_spot#.mzML"
 
 ```{r}
 n<-length(spectraHQ)
