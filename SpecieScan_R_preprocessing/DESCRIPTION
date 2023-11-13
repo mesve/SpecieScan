@@ -1,0 +1,20 @@
+[DESCRIPTION]
+Name: SpecieScan(R)
+Type: Code
+Title: SpecieScan (R preprocessing)
+Version: 0.1.0
+Author: Emese Végh
+Maintainer: Emese Végh <mesve3@gmail.com>
+Description: Preprocessing for SpecieScan
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 4.0.5),
+    some-other-R-package (>= 1.2.3)
+Imports:
+    factoextra,
+    MALDIquant,
+    MALDIquantForeign
+Suggests:
+    testthat
