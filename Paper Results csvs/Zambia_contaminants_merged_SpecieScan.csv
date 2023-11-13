@@ -1,0 +1,523 @@
+Sample,contaminant,mass
+KAV_208_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_208_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_208_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,839.0974
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,855.0714
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,861.0794
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,871.0453
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,1066.0959
+MTS_005_N2_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_059_J4_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_059_J4_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_059_J4_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_074_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_074_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_074_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_074_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_074_D1_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_405_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_405_D1_Contaminants.csv,Keratin,2705.1611
+KMP_077_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_077_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_077_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_077_A1_Contaminants.csv,Keratin (Human),1277.6332
+KMP_077_A1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_441_O2_Contaminants.csv,4HCCA Cluster,839.0974
+KAV_441_O2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_441_O2_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_441_O2_Contaminants.csv,4HCCA Cluster,1044.114
+KAV_441_O2_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_441_O2_Contaminants.csv,Keratin (Human),874.4993
+KAV_441_O2_Contaminants.csv,Keratin (Human),1475.7489
+KAV_441_O2_Contaminants.csv,Keratin (Human),1475.7853
+KAV_441_O2_Contaminants.csv,"Porcine Trypsin, Methylated, Truncated",1126.564
+KMP_051_J5_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_051_J5_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_051_J5_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_051_J5_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_013_D2_Contaminants.csv,4HCCA Cluster,839.0974
+KMP_013_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_013_D2_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_013_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_013_D2_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_013_D2_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_028_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_028_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_028_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_028_G1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_028_G1_Contaminants.csv,Keratin,2705.1611
+KMP_028_G1_Contaminants.csv,"Porcine Trypsin, Methylated",2720.3634
+KMP_031_A4_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_031_A4_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_031_A4_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_031_A4_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_031_A4_Contaminants.csv,Keratin (Human),1277.6332
+KMP_009_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_009_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_009_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_009_A2_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_071_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_071_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_071_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_071_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_451_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_033_G2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_033_G2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_033_G2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_049_J1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_049_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_049_J1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_049_J1_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_049_J1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_080_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_080_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_080_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_080_A1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,839.0974
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_068_D1_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_089_G2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_089_G2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,839.0974
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_307_D2_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_063_G2_Contaminants.csv,4HCCA Cluster,845.1054
+KAV_063_G2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_063_G2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_063_G2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_063_G2_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_148_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_148_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_148_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_148_D2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_148_D2_Contaminants.csv,"Porcine Trypsin, Methylated",2720.3634
+KMP_082_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_082_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_082_A1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_052_J1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_052_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_052_J1_Contaminants.csv,Keratin,995.5197
+KMP_052_J1_Contaminants.csv,Keratin (Human),1037.5262
+KMP_052_J1_Contaminants.csv,Keratin (Human),1066.6044
+KMP_052_J1_Contaminants.csv,Keratin (Human),1090.531
+KMP_052_J1_Contaminants.csv,Keratin (Human),1165.5848
+KMP_052_J1_Contaminants.csv,Keratin (Human),1179.6004
+KMP_052_J1_Contaminants.csv,Keratin (Human),1235.5287
+KMP_052_J1_Contaminants.csv,Keratin (Human),1300.5296
+KMP_052_J1_Contaminants.csv,Keratin (Human),1308.6543
+KMP_052_J1_Contaminants.csv,Keratin (Human),1320.5828
+KMP_052_J1_Contaminants.csv,Keratin (Human),1365.6393
+KMP_052_J1_Contaminants.csv,Keratin (Human),1475.7489
+KMP_052_J1_Contaminants.csv,Keratin (Human),1475.7853
+KMP_052_J1_Contaminants.csv,Keratin (Human),1493.7343
+KMP_052_J1_Contaminants.csv,Keratin (Human),1707.7721
+KMP_052_J1_Contaminants.csv,Keratin (Human),2383.9519
+KMP_052_J1_Contaminants.csv,Porcine Trypsin,1493.5995
+KAV_084_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_084_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_084_D2_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_084_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_084_D2_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_083_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_083_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_083_A1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_083_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_083_A1_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_083_A1_Contaminants.csv,Keratin (Human),1060.5633
+KMP_083_A1_Contaminants.csv,Keratin (Human),1277.6332
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,839.0974
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_073_D4_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_093_G7_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_093_G7_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_093_G7_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_093_G7_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_308_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_308_D2_Contaminants.csv,Keratin,2705.1611
+KAV_419_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_419_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_419_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_032_A5_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_032_A5_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_032_A5_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_032_A5_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_032_A5_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_006_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_006_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_006_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_006_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_006_D1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_038_G1_Contaminants.csv,4HCCA Cluster,845.1054
+KMP_038_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_038_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_038_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_448_M3_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_448_M3_Contaminants.csv,Keratin,2705.1611
+KAV_448_M3_Contaminants.csv,Keratin (Human),1208.6157
+KAV_448_M3_Contaminants.csv,Keratin (Human),1447.7751
+KMP_046_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_046_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+SAL_003_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+SAL_003_J1_Contaminants.csv,Porcine Trypsin,842.5094
+SAL_013_E2_Contaminants.csv,4HCCA Cluster,855.0714
+SAL_013_E2_Contaminants.csv,4HCCA Cluster,871.0453
+SAL_013_E2_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_022_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_022_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_022_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_022_G1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_199_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_199_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_445_D1_Contaminants.csv,Keratin,2705.1611
+MTS_006_L2_Contaminants.csv,4HCCA Cluster,855.0714
+MTS_006_L2_Contaminants.csv,4HCCA Cluster,871.0453
+MTS_006_L2_Contaminants.csv,4HCCA Cluster,1060.0879
+MTS_006_L2_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_122_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_122_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_122_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_122_D1_Contaminants.csv,Porcine Trypsin,842.5094
+SAL_005_F2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_412_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_412_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_042_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_042_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_061_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_061_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_061_A1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_061_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_061_A1_Contaminants.csv,Keratin (Human),1277.6332
+SAL_001_K1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+SAL_001_K1_Contaminants.csv,Keratin,2705.1611
+SAL_001_K1_Contaminants.csv,Keratin (Human),1208.6157
+KMP_037_E1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_037_E1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_005_A2_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_062_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_062_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_062_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_062_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_207_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_207_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_207_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_207_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_001_A1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+MTS_001_L2_Contaminants.csv,4HCCA Cluster,855.0714
+MTS_001_L2_Contaminants.csv,Keratin (Human),804.4098
+MTS_001_L2_Contaminants.csv,Porcine Trypsin,842.5094
+MTS_001_L2_Contaminants.csv,"Porcine Trypsin, Truncated",802.4305
+KMP_060_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_060_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_060_A1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_060_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_060_A1_Contaminants.csv,4HCCA Cluster,1060.0879
+SAL_002_F2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+SAL_002_F2_Contaminants.csv,Keratin,1851.9269
+SAL_002_F2_Contaminants.csv,Keratin,2705.1611
+SAL_002_F2_Contaminants.csv,Keratin (Human),1208.6157
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,839.0974
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_078_D1_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_078_D1_Contaminants.csv,Keratin (Human),1277.6332
+KAV_396_M3_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_396_M3_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_396_M3_Contaminants.csv,4HCCA Cluster,1044.114
+KAV_396_M3_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_396_M3_Contaminants.csv,Keratin,2705.1611
+KAV_396_M3_Contaminants.csv,Keratin (Human),1235.5287
+KAV_396_M3_Contaminants.csv,Keratin (Human),1475.7489
+KAV_396_M3_Contaminants.csv,Keratin (Human),1475.7853
+KAV_396_M3_Contaminants.csv,"Porcine Trypsin, Methylated, Truncated",1126.564
+KAV_126_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_126_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_126_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_272_D3_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_272_D3_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_272_D3_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_272_D3_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_022_E3_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_022_E3_Contaminants.csv,Keratin,2705.1611
+KAV_022_E3_Contaminants.csv,Keratin (Human),1208.6157
+KAV_291_G7_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_291_G7_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_291_G7_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_291_G7_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_291_G7_Contaminants.csv,Keratin,2705.1611
+KAV_291_G7_Contaminants.csv,"Porcine Trypsin, Methylated",2720.3634
+KAV_183_D5_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_183_D5_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_183_D5_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_183_D5_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_183_D5_Contaminants.csv,Keratin,2705.1611
+KAV_050_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_050_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_011_C1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_011_C1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_011_C1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_011_C1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_510_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_510_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_510_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_510_G1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_510_G1_Contaminants.csv,Keratin,2705.1611
+KAV_510_G1_Contaminants.csv,Keratin (Human),1193.6161
+KAV_510_G1_Contaminants.csv,Keratin (Human),2501.0672
+KAV_510_G1_Contaminants.csv,Keratin (Human),2501.2518
+KAV_385_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_385_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_385_D2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_384_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_384_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_384_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_384_D2_Contaminants.csv,Keratin (Human),1121.5837
+KAV_173_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_067_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_067_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_067_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_067_A2_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_018_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_018_A1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_533_G7_Contaminants.csv,Keratin,2705.1611
+KMP_001_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_001_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_001_A1_Contaminants.csv,Porcine Trypsin,842.5094
+ZAM_002_A5_Contaminants.csv,4HCCA Cluster,855.0714
+ZAM_002_A5_Contaminants.csv,4HCCA Cluster,861.0794
+ZAM_002_A5_Contaminants.csv,4HCCA Cluster,871.0453
+ZAM_002_A5_Contaminants.csv,4HCCA Cluster,1044.114
+ZAM_002_A5_Contaminants.csv,4HCCA Cluster,1060.0879
+ZAM_002_A5_Contaminants.csv,Keratin,1599.8337
+ZAM_002_A5_Contaminants.csv,"Porcine Trypsin, Methylated, Truncated",1126.564
+KAV_147_A1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_147_A1_Contaminants.csv,Keratin,1851.9269
+KAV_147_A1_Contaminants.csv,Keratin,2705.1611
+KAV_147_A1_Contaminants.csv,Keratin (Human),1193.6161
+KAV_002_G3_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_002_G3_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_002_G3_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_002_G3_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_002_G3_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_002_G3_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_002_G3_Contaminants.csv,Keratin,2705.1611
+KAV_002_G3_Contaminants.csv,"Porcine Trypsin, Methylated",2720.3634
+KMP_023_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_023_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+SAL_017_A1_Contaminants.csv,4HCCA Cluster,855.0714
+SAL_017_A1_Contaminants.csv,Keratin,2705.1611
+KMP_027_A3_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_027_A3_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_027_A3_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_027_A3_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_023_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_023_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_023_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+MTS_002_L1_Contaminants.csv,4HCCA Cluster,839.0974
+MTS_002_L1_Contaminants.csv,4HCCA Cluster,855.0714
+MTS_002_L1_Contaminants.csv,4HCCA Cluster,871.0453
+MTS_002_L1_Contaminants.csv,4HCCA Cluster,1060.0879
+MTS_002_L1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_491_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_491_G1_Contaminants.csv,Keratin (Human),1121.5837
+KAV_295_D5_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_518_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_518_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_518_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_518_A1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_029_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_029_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_029_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_029_A2_Contaminants.csv,Keratin (Human),1121.5837
+KMP_029_A2_Contaminants.csv,"Porcine Trypsin, Methylated",2720.3634
+KAV_340_E1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_340_E1_Contaminants.csv,Keratin,2705.1611
+KAV_340_E1_Contaminants.csv,Keratin (Human),1208.6157
+KAV_318_D4_Contaminants.csv,Keratin,2705.1611
+KMP_036_A6_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_036_A6_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_036_A6_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_301_B1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_064_D6_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_064_D6_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_064_D6_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_064_D6_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_003_A9_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_003_A9_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_003_A9_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_003_A9_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_003_A9_Contaminants.csv,Keratin (Human),1277.6332
+KMP_026_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_026_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_034_H1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_034_H1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_034_H1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_007_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_007_D1_Contaminants.csv,Keratin,809.4403
+KMP_007_D1_Contaminants.csv,Keratin,2705.1611
+KMP_007_D1_Contaminants.csv,Keratin (Human),1208.6157
+KAV_392_D8_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_392_D8_Contaminants.csv,Keratin,2705.1611
+KAV_493_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_493_A1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_057_J2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_057_J2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_057_J2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_057_J2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_057_J2_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_144_C1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_144_C1_Contaminants.csv,Keratin,809.4403
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,839.0974
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,855.0714
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,871.0453
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,1044.114
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,1066.0959
+ZAM_007_C1_Contaminants.csv,4HCCA Cluster,1060.0879
+ZAM_007_C1_Contaminants.csv,Keratin (Human),1475.7853
+ZAM_007_C1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_006_B1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_006_B1_Contaminants.csv,Keratin (Human),1071.6045
+KMP_006_B1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_457_D2_Contaminants.csv,Keratin,2705.1611
+KAV_481_G5_Contaminants.csv,4HCCA Cluster,845.1054
+KAV_481_G5_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_481_G5_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_481_G5_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,839.0974
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,1044.114
+KAV_017_F3_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_017_F3_Contaminants.csv,Keratin (Human),1475.7853
+KAV_017_F3_Contaminants.csv,"Porcine Trypsin, Methylated, Truncated",1126.564
+KMP_002_C1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_002_C1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_002_C1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_002_C1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_002_C1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_075_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_075_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_075_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_163_D9_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_163_D9_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_043_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_043_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_043_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_043_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_043_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_414_D8_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_414_D8_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_414_D8_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_414_D8_Contaminants.csv,Keratin,2705.1611
+KAV_482_G5_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_482_G5_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_482_G5_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_482_G5_Contaminants.csv,Keratin,2705.1611
+KAV_482_G5_Contaminants.csv,Keratin (Human),1475.7489
+KAV_482_G5_Contaminants.csv,Keratin (Human),1475.7853
+KAV_482_G5_Contaminants.csv,Keratin (Human),1993.9767
+KAV_482_G5_Contaminants.csv,Keratin (Human),1993.9825
+KAV_458_G9_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_458_G9_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_458_G9_Contaminants.csv,Keratin,2705.1611
+KMP_041_J7_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_041_J7_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_041_J7_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_041_J7_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_041_J7_Contaminants.csv,Keratin,2705.1611
+KMP_047_J3_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_047_J3_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_047_J3_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_047_J3_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_492_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_492_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_492_D1_Contaminants.csv,4HCCA Cluster,871.0453
+KAV_492_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_492_D1_Contaminants.csv,4HCCA Cluster,1060.0879
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,839.0974
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_054_J2_Contaminants.csv,4HCCA Cluster,1060.0879
+KAV_455_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_485_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_485_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_485_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_485_G1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_485_G1_Contaminants.csv,Keratin,1549.6772
+KAV_485_G1_Contaminants.csv,Keratin,2705.1611
+KMP_066_J1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_066_J1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_066_J1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_066_J1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_004_F1_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_014_A1_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_014_A1_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_014_A1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_100_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_100_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_100_D1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_077_D1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_077_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_077_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_077_D1_Contaminants.csv,Keratin,2705.1611
+KAV_026_D1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_026_D1_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_070_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_070_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_070_A2_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_070_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_070_A2_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_135_D2_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_135_D2_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_135_D2_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_135_D2_Contaminants.csv,Keratin,2705.1611
+KAV_135_D2_Contaminants.csv,Keratin (Human),1121.5837
+KAV_135_D2_Contaminants.csv,Keratin (Human),1235.5287
+KAV_135_D2_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_030_G1_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_030_G1_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_030_G1_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_030_G1_Contaminants.csv,Porcine Trypsin,842.5094
+KAV_386_D7_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_386_D7_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_386_D7_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_435_A1_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_053_J2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_069_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_069_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_069_A2_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_055_J6_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_055_J6_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KMP_019_A4_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_019_A4_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_033_A8_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_033_A8_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_033_A8_Contaminants.csv,4HCCA Cluster,1066.0959
+KMP_033_A8_Contaminants.csv,Porcine Trypsin,842.5094
+KMP_058_J8_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_058_J8_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_058_J8_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_453_A2_Contaminants.csv,Bovine Casein a-S1,1267.7045
+KAV_453_A2_Contaminants.csv,Keratin,2705.1611
+KAV_494_G4_Contaminants.csv,4HCCA Cluster,855.0714
+KAV_494_G4_Contaminants.csv,4HCCA Cluster,861.0794
+KAV_494_G4_Contaminants.csv,4HCCA Cluster,1066.0959
+KAV_393_D9_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_072_A2_Contaminants.csv,4HCCA Cluster,855.0714
+KMP_072_A2_Contaminants.csv,4HCCA Cluster,861.0794
+KMP_072_A2_Contaminants.csv,4HCCA Cluster,871.0453
+KMP_072_A2_Contaminants.csv,4HCCA Cluster,1066.0959
