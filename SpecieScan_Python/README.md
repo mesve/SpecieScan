@@ -7,7 +7,7 @@ This file provides documentation for SpecieScan automated species identification
 
 ## Features
 
-- Imports pre-processed mass spectrometry data from MALDI-TOF MS (see README_R on preprocessing).
+- Imports pre-processed mass spectrometry data from MALDI-TOF MS (see README in SpecieScan R preprocessing on preprocessing steps).
 - Matches processed spectra peaks to a reference database.
 - Ranks species based on correlation scores.
 - Batch processes multiple files for efficiency.
