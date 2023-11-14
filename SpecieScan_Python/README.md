@@ -15,7 +15,7 @@ This file provides documentation for SpecieScan automated species identification
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3
 - Required Python packages (install using `pip install package_name`):
   - `pandas`
   - `numpy`
