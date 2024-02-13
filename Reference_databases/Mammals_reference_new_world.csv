@@ -1,0 +1,98 @@
+﻿Order,Family,Species,ZooMS_taxon,COL1a1_508_520,COLa1_2_978_990,COLa1_2_978_990_16,COL1a2_484___499,COL1a2_502___519,COL1a2_292___309,COL1a2_793___816,COL1a2_454___483,COL1a1_586___618,COL1a1_586___618_16,COL1a2_757___789,COL1a2_757___789_16,COL1a2_10__42
+Artiodactyla,Cervidae,Mazama_nemorivaga,Mazama,1105.6,1180.6,1196.6,1427.7,1580.8,,2131.1,2792.4,2883.4,2899.4,3043.4,3059.4,
+Artiodactyla,Cervidae,Mazama_temama,Mazama,1105.6,1180.6,1196.6,1427.7,1580.8,,2145.1,2792.4,2883.4,2899.4,3043.4,3059.4,
+Artiodactyla,Monodontidae,Delphinapterus_leucas,Monodon/Delphinapterus,1079.6,1189.6,1205.6,1443.7,1550.8,1652.8,2121.1,,2883.4,2899.4,3051.4,3067.4,
+Artiodactyla,Monodontidae,Monodon_monoceros,Monodon/Delphinapterus,1079.6,1189.6,1205.6,1443.7,1550.8,1652.8,2089.1,,2883.4,2899.4,3051.4,3067.4,
+Artiodactyla,Phocoenidae,Phocoena_phocoena,Phocoena,1079.6,,1205.6,1453.7,1550.8,1652.8,2119.1,,2883.4,,,3023.4,
+Artiodactyla,Phocoenidae,Phocoenoides_dalli,Phocoena,1079.6,,1205.6,1453.7,1550.8,1652.8,2119.1,,2883.4,,,3023.4,
+Artiodactyla,Physeteridae,Physeter_macrocephalus,Physeter,1079.6,1189.6,1205.6,1453.7,1550.8,1652.8,2133.1,,2883.4,2899.4,,3039.4,
+Artiodactyla,Delphinidae,Delphinus_delphis,Delphinus,1079.6,,1205.6,1453.7,1566.8,1638.8,2119.1,2866.4,2883.4,,,3023.4,
+Artiodactyla,Delphinidae,Globicephala_sp.,Globicephala,1063.6,,1205.6,1453.7,1566.8,1638.8,2119.1,,2883.4,,,3023.4,
+Artiodactyla,Delphinidae,Grampus_griseus,Grampus,1063.6,1189.6,1205.6,1453.7,1566.8,1638.8,2119.1,2866.4,2883.4,2899.4,,3023.4,
+Artiodactyla,Delphinidae,Lagenorhynchus_albirostris,Lagenorhynchus,1079.6,,1205.6,1453.7,1566.8,1638.8,2119.1,2866.4,2883.4,,,3023.4,
+Artiodactyla,Delphinidae,Lagenorhynchus_sp.,Lagenorhynchus,1079.6,,1205.6,1453.7,1566.8,1652.8,2119.1,,2883.4,,,3023.4,
+Artiodactyla,Delphinidae,Orcinus_orca,Orcinus,1079.6,1189.6,1205.6,1453.7,1566.8,1652.8,2119.1,2766.4,2883.4,2899.4,3007.4,3023.4,
+Artiodactyla,Delphinidae,Pseudorca_crassidens,Pseudorca,1063.6,,1205.6,1453.7,1566.8,1638.8,2119.1,,2883.4,,,3023.4,
+Artiodactyla,Delphinidae,Stenella_coeruleoalba,Stenella,1079.6,1189.6,1205.6,1453.7,1566.8,1638.8,2119.1,2866.4,2883.4,2899.4,,3023.4,
+Artiodactyla,Delphinidae,Tursiops_sp.,Tursiops,1079.6,1189.6,1205.6,1453.7,1566.8,1638.8,2119.1,2866.4,2883.4,2899.4,3007.4,3023.4,
+Artiodactyla,Balaenidae,Balaena_mysticetus,Balaena,1079.6,,1205.6,1453.7,1566.8,1682.8,2135.1,,2883.4,,,3023.4,
+Artiodactyla,Balaenidae,Eubalaena_sp.,Balaena/Eubalaena,1079.6,,1205.6,1453.7,1566.8,1682.8,2135.1,,2883.4,,,3023.4,
+Artiodactyla,Balaenopteridae,Balaenoptera_borealis,Balaena,1079.6,,1205.6,1441.7,1550.8,1652.8,2135.1,,2883.4,,,3023.4,
+Artiodactyla,Balaenopteridae,Balaenoptera_musculus,Balaena,1079.6,,1205.6,1453.7,1550.8,1652.8,2105.1,,2883.4,,,3023.4,
+Artiodactyla,Balaenopteridae,Balaenoptera_physalus,Balaena,1079.6,,1205.6,1453.7,1566.8,1652.8,2135.1,,2883.4,,,3023.4,
+Artiodactyla,Balaenopteridae,Balaenoptera_sp.,Balaena,1079.6,1189.6,1205.6,1441.7,1566.8,1652.8,2135.1,2849.4,2883.4,2899.4,3007.4,3023.4,
+Artiodactyla,Balaenopteridae,Eschrichtius_robustus,Eschrichtius,1079.6,,1205.6,1453.7,1566.8,1652.8,2135.1,,,2899.4,,3023.4,
+Artiodactyla,Balaenopteridae,Megaptera_novaeangliae,Megaptera,1079.6,,1205.6,1453.7,1566.8,1652.8,2135.1,,2869.4,,,3023.4,
+Carnivora,Odobenidae,Odobenus_rosmarus,Odobenus,1105.6,1205.6,1221.6,1453.7,1566.8,1652.8,2121.1,,2853.4,2869.4,3003.4,,
+Carnivora,Odobenidae,Odobenus_rosmarus,Odobenus,1105.6,1205.6,1221.6,1453.7,1566.8,1652.8,2121.1,,2853.4,2869.4,3003.4,,
+Carnivora,Otariidae,Arctocephalus_australis,Arctocephalus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Arctocephalus_gazella,Arctocephalus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Arctocephalus_townsendi,Arctocephalus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Callorhinus_ursinus,Otaria/Callorhinus/Eumetopias/Zalophus,1105.6,1205.6,1221.6,1453.7,1566.8,1652.8,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Eumetopias_jubatus,Otaria/Callorhinus/Eumetopias/Zalophus,1105.6,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Otaria_flavescens,Otaria/Callorhinus/Eumetopias/Zalophus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Zalophus_californianus,Otaria/Callorhinus/Eumetopias/Zalophus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Phocidae,Phoca_largha,Phoca/Pusa,1105.6,,1221.6,1453.7,1566.8,,2171.1,,,2869.4,2957.4,,
+Carnivora,Phocidae,Phoca_vitulina,Phoca/Pusa,1105.6,1205.6,1221.6,1453.7,1566.8,1652.8,2171.1,,2853.4,2869.4,2957.4,,
+Carnivora,Phocidae,Pusa_hispida,Phoca/Pusa,1105.6,,1221.6,1453.7,1566.8,1652.8,2171.1,,2853.4,2869.4,2957.4,,
+Chiroptera,Molossidae,Tadarida_brasiliensis,Tadarida,1105.6,1247.6,1263.6,1453.7,1594.8,,2161.1,,2883.4,2899.4,2932.4,2948.4,2975.5
+Chiroptera,Phyllostomidae,Erophylla_sezekorni,Erophylla,1105.6,1221.6,1237.6,1453.7,1621.8,,2105.1,,2869.4,,,,
+Chiroptera,Phyllostomidae,Macrotus_waterhousii,Macrotus,1105.6,1221.6,1237.6,1453.7,,,2119.1,2850.4,2869.4,,,,
+Dasyuromorphia,Dasyuridae,Sarcophilus_harrisii,Sarcophilus,1162.6,1159.6,1175.6,1453.7,1598.8,1725.8,2177.1,2335.4,2869.4,2885.4,2929.4,2945.4,2975.4
+Dasyuromorphia,Thylacinidae,Thylacinus_cynocephalus,Thylacinus,1162.6,1159.6,1175.6,1453.7,1598.8,,2121.1,2335.4,2869.4,2885.4,2929.4,2945.4,2975.4
+Diprotodontia,Macropodidae,Lagorchestes_conspicillatus,Lagorchestes/Lagostrophus/Macropus,1162.6,1150.6,1166.6,1453.7,1598.8,,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Lagostrophus_fasciatus,Lagorchestes/Lagostrophus/Macropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2881.4,2897.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Macropus_fuliginosus,Lagorchestes/Lagostrophus/Macropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2989.4
+Diprotodontia,Macropodidae,Macropus_giganteus,Lagorchestes/Lagostrophus/Macropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2989.4
+Diprotodontia,Macropodidae,Macropus_sp.,Lagorchestes/Lagostrophus/Macropus,,,,1453.7,,,2145.1,2335.4,2897.4,2913.4,2943.4,,2975.4
+Diprotodontia,Macropodidae,Notamacropus_agilis,Notamacropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Notamacropus_eugenii,Notamacropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Notamacropus_irma,Notamacropus,1162.6,1150.6,1166.6,1427.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Notamacropus_parma,Notamacropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Notamacropus_rufogriseus,Notamacropus,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Osphranter_robustus,Osphranter,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Osphranter_rufus,Osphranter,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Macropodidae,Simosthenurus_occidentalis,Simosthenurus,,,,1453.7,,,2145.1,,2881.4,,2943.4,,2975.4
+Diprotodontia,Macropodidae,Wallabia_bicolor,Wallabia,1162.6,1150.6,1166.6,1453.7,1598.8,1680.8,2145.1,2335.4,2897.4,2913.4,2943.4,2959.4,2975.4
+Diprotodontia,Petauridae,Petaurus_breviceps,Petaurus,1162.6,1159.6,1175.6,1411.7,1598.8,1650.8,2145.1,2335.4,2897.4,2913.4,2971.4,2987.4,2975.4
+Diprotodontia,Phalangeridae,Pseudocheirus_peregrinus,Pseudocheirus,1162.6,1137.6,1153.6,1439.7,1598.8,1650.8,2161.1,2335.4,2897.4,2913.4,2929.4,2945.4,2975.4
+Diprotodontia,Phalangeridae,Trichosurus_vulpecula,Trichosurus,1162.6,1137.6,1153.6,1453.7,1598.8,,2145.1,2335.4,2897.4,2913.4,2945.4,2961.4,2975.4
+Diprotodontia,Phascolarctidae,Phascolarctos_cinereus,Phascolarctos,1162.6,1159.6,1175.6,1397.7,1598.8,1692.8,2145.1,2335.4,2869.4,2885.4,2959.4,2975.4,2975.4
+Diprotodontia,Vombatidae,Lasiorhinus_sp.,Lasiorhinus,1162.6,,,1397.7,1598.8,1692.8,2145.1,2335.4,2869.4,2885.4,2959.4,2975.4,2975.4
+Diprotodontia,Vombatidae,Vombatus_ursinus,Vombatus,1162.6,1159.6,1175.6,1439.7,1598.8,1650.8,2119.1,2335.4,2897.4,2913.4,2959.4,2975.4,2991.4
+Diprotodontia,Vombatidae,Vombatus_ursinus,Vombatus,1162.6,1159.6,1175.6,1439.7,1598.8,1650.8,2161.1,2335.4,2897.4,2913.4,2959.4,2975.4,2991.4
+Lagomorpha,Ochotonidae,Ochotona_princeps,Ochotona,1105.6,1191.6,1207.6,1427.7,,,2115.1,,2883.4,2899.4,2997.4,3013.4,
+Monotremata,Tachyglossidae,Tachyglossus_aculeatus,Tachyglossus,1120.6,1182.6,1198.6,1453.7,1607.8,,2121.1,2848.4,2873.4,2889.4,2999.4,3015.4,3009.4
+Peramelemorphia,Peramelidae,Isoodon_macrourus,Isoodon,1162.6,1150.6,1166.6,1453.7,1598.8,,2177.1,2335.4,2897.4,2913.4,2957.4,2973.4,2975.4
+Peramelemorphia,Peramelidae,Isoodon_sp.,Isoodon,,,,1453.7,,,2161.1,,2869.4,,2957.4,,2975.4
+Peramelemorphia,Peramelidae,Perameles_nasuta,Perameles,1162.6,1159.6,1175.6,1453.7,1598.8,,2177.1,2335.4,2869.4,2885.4,2957.4,2973.4,2975.4
+Perissodactyla,Tapiridae,Tapirus_terrestris,Tapirus,1105.6,1182.6,1198.6,1453.7,1550.8,,2145.1,2792.4,2869.4,2885.4,2983.4,2999.4,
+Primates,Hominidae,Homo_sapiens,Homo,1105.6,,1235.6,1477.7,1580.8,1619.8,2115.1,2832.4,2869.4,2885.4,2957.4,2973.4,
+Rodentia,Capromyidae,Capromys_pilorides,Capromys/Geocapromys,1105.6,1161.6,1177.6,1427.7,1594.8,,2159.1,2862.4,2883.4,2899.4,2999.4,,3003.5
+Rodentia,Capromyidae,Geocapromys_brownii,Capromys/Geocapromys,1105.6,1161.6,1177.6,1427.7,1594.8,,2159.1,2862.4,2883.4,2899.4,2999.4,,3003.5
+Proboscidea,Mammutidae,Mammut_americanum,Mammoth/Elephas,1105.6,1145.6,1161.6,1453.7,1579.8,,2115.1,2808.4,2853.4,2869.4,2985.4,3001.4,
+Rodentia,Castoridae,Castor_sp.,Castor,1105.6,1177.6,1193.6,1427.7,1576.8,,2129.1,,2883.4,2899.4,2983.4,2999.4,
+Rodentia,Dasyproctidae,Dasyprocta_punctata,Dasyprocta,1105.6,1152.6,1168.6,1427.7,1594.8,,2145.1,,2883.4,2899.4,3032.4,,3003.5
+Rodentia,Muridae,Mus_musculus,Murid/Mus,1105.6,1178.6,1194.6,1453.7,1592.8,,2159.1,2866.4,2895.4,2911.4,2931.4,2947.4,3013.5
+Rodentia,Muridae,Rattus_norvegicus,Murid/Rattus,1105.6,1187.6,1203.6,1453.7,1592.8,,2143.1,2808.4,2883.4,2899.4,2987.4,3003.4,
+Rodentia,Muridae,Rattus_rattus,Murid/Rattus,1105.6,1187.6,1203.6,1453.7,1592.8,,2143.1,2808.4,2883.4,2899.4,2957.4,,3003.5
+Soricomorpha,Nesophontidae,Nesophontes_major,Nesophontes,1105.6,1221.6,1237.6,1455.7,1556.7,1639.8,,2794.3,2869.4,2885.4,2983.4,2999.4,
+Artiodactyla,Camelidae,Lama_pacos,Lama,1105.6,1221.6,,1453.7,1550.8,,2131.1,,,,3017.4,3033.4,
+Artiodactyla,Camelidae,Lama_vicugna,Lama,,1221.6,,1453.7,1550.8,,2131.1,,2845.4,2861.4,3017.4,3033.4,
+Carnivora,Otariidae,Arctocephalus_gazella,Arctocephalus,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Chiroptera,Molossidae,Tadarida brasiliensis,Tadarida,,1105.6,1217.6,1263.6,1453.7,1594.8,,2161.1,,2883.4,2899.4,2932.4,2948.4
+Dasyuromorphia,Dasyuridae,Dasyurus sp.,Dasyurus,,,1247.7,,1453.7,,,2177.1,,2897.4,,2929.4,
+Dasyuromorphia,Dasyuridae,Phascogale tapoatafa,Phascogale,,1162.6,1247.7,,1453.7,1598.8,1725.8,2163.1,2335.4,2897.4,2913.4,2929.4,2945.4
+Sirenia,Trichechidae,Trichechus manatus,Trichechus,1105.6,1178.6,1203.6,1469.7,1536.8,1623.8,2089.1,2792.4,2855.4,2871.4,3003.4,3019.4,
+Artiodactyla,Cervidae,Odocoileus hemionus,Cervus/Saiga/Gazella,1105.6,1180.6,1196.6,1427.7,1593.8,1648.8,2131.1,2792.4,2883.4,2899.4,3043.4,3059.4,
+Artiodactyla,Cervidae,Odocoileus virginianus,Cervus/Saiga/Gazella,1105.6,1180.6,1196.6,1427.7,1580.8,1648.8,2131.1,2792.4,2883.4,2899.4,3043.4,3059.4,
+Carnivora,Canidae,Canis latrans,Canis,1105.6,1210.6,1226.6,1453.7,,1609.8,2131.1,2820.4,2853.4,2869.4,2983.4,2999.4,
+Carnivora,Felidae,Lynx rufus,Lynx,1105.6,1207.6,1223.6,1453.7,,,2163.1,2820.4,,,2983.4,2999.4,
+Carnivora,Otariidae,Arctocephalus townsendi,Arctocephalus/Callorhinus/Eumetopias/Zalophus/Cystophora,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Otariidae,Zalophus californianus,Arctocephalus/Callorhinus/Eumetopias/Zalophus/Cystophora,,1205.6,1221.6,1453.7,1566.8,,2121.1,,2853.4,,2957.4,,
+Carnivora,Phocidae,Mirounga angustirostris,Phocid/Mirounga,,1214.6,1221.6,1453.7,1566.8,,2171.1,,2853.4,,2957.4,,
+Carnivora,Phocidae,Mirounga angustirostris,Phocid/Mirounga,,1221.6,1221.6,1453.7,1566.8,,2171.1,,2853.4,,2957.4,,
+Carnivora,Phocidae,Mirounga leonina,Phocid/Mirounga,,,1221.6,1453.7,1566.8,,2171.1,,2853.4,,2957.4,,
+Carnivora,Ursidae,Ursus americanus,Ursus,1105.6,1205.6,1233.6,1453.7,1566.8,1609.8,2163.1,,2853.4,2869.4,2957.4,2973.4,
+Chiroptera,Vespertilionidae,Eptesicus fuscus,Eptesicus,1105.6,1291.7,1263.6,1453.7,1594.8,,2147.1,2779.3,2883.4,2899.4,2999.4,,
+Carnivora,Mustelidae,Enhydra lutris,Enhydra,,1219.6,1235.6,1453.7,1566.8,,2147.1,,2853.4,,2973.4,,
