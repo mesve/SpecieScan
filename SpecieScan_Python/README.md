@@ -47,6 +47,7 @@ This file provides documentation for SpecieScan automated species identification
 6. Run the Python script to process and analyse the data. 
 
 - Modify the script as needed for your specific data and analysis parameters based on the comments.
+- Read in the appropritate reference database. The reference databases can be found in the SpecieScan repository. Some species live and lived in several continents and geographical areas, as well as recently migrated. Thus, no geographically-separated reference database will be 100% accurate for all periods and all research questions. When results are interpreted based on the reference databases, common sense (and knowledge of the time-period the samples originate from) need to be practiced.
 
 6.1 First the code will process one file (first chosen as df), then it will batch process all files from the chosen folder.
 
