@@ -10,6 +10,11 @@
 # Credits
 * Cite SpecieScan algorithm: DOI: 10.5281/zenodo.8055426 and paper Végh & Douka 2023. SpecieScan: Semi-Automated Species Identification of Bone Fragments from MALDI-ToF MS Spectra. Bioinformatics (under review)
 
+* The Preprocessing code was adapted and subsequently changed from the following paper and dataset: Codlin, M. C., & Richter, K. K. (2022). Data for ZooMS analysis of avian fauna from Teotihuacan, Mexico, for Codlin et al. 2022 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6363114
+Codlin MC, Douka K, Richter KK (2022). An application of zooms to identify archaeological avian fauna from Teotihuacan, Mexico. Journal of Archaeological Science;148:105692.
+![image](https://github.com/mesve/SpecieScan/assets/25906714/12ccc9fc-b1f8-4b2f-a34b-bc69fec8b695)
+
+
 # Usage
 * Specific parameter choices may depend on the characteristics of your data. It is essential to consider your data's unique properties. The common parameters in the code are explained below:
 
@@ -18,7 +23,21 @@
 SNR is a measure of the signal's strength compared to noise level, used to distinguish peaks from background noise. The default SNR parameter used in mMass is 3.0 (hence the default in the R code), but this needs to be adjusted accordingly after observing the spectra using the following code for visualisation. Higher values will filter out more noise but may miss weaker peaks. If a lower value is chosen, it might detect more peaks but also more noise.Thus, this parameter will depend on your spectra.
 
 
-```{r}noise <- estimateNoise(spectra[[1]])plot(spectra[[1]], xlim=c(1150, 1250))ylim(c(0, 0.01)) # set y-axis limits to 0-0.01lines(noise, col="red")lines(noise[,1], noise[, 2]*3, col="blue") # here the *3 shows SNR of 3for (i in 1:10){  plot(spectra[[i]], xlim=c(3090, 3100))  ylim(c(0, 0.01)) # set y-axis limits to 0-0.01  lines(noise, col="red")  lines(noise[,1], noise[, 2]*5, col="blue") # here the *5 shows SNR of 5}```
+```{r}
+
+noise <- estimateNoise(spectra[[1]])
+plot(spectra[[1]], xlim=c(1150, 1250))
+ylim(c(0, 0.01)) # set y-axis limits to 0-0.01
+lines(noise, col="red")
+lines(noise[,1], noise[, 2]*3, col="blue") # here the *3 shows SNR of 3
+for (i in 1:10){
+  plot(spectra[[i]], xlim=c(3090, 3100))
+  ylim(c(0, 0.01)) # set y-axis limits to 0-0.01
+  lines(noise, col="red")
+  lines(noise[,1], noise[, 2]*5, col="blue") # here the *5 shows SNR of 5
+}
+
+```
 
 ## Half-Window Size
 
@@ -50,7 +69,9 @@ Section of code in question:
 
 ```{r}
 spectra <- removeBaseline(spectra, method = "SNIP", iterations = 100)
-}```
+}
+
+```
 ## Monoisotopic Peaks Parameters
 It allows for the identification and quantification of peptide fragments accurately. The `monoisotopicPeaks` function plays a central role in this process. Here, we explain our choices of parameters for this function and provide insights from our parameter testing and sensitivity analysis.
 
