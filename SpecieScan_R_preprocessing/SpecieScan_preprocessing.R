@@ -8,13 +8,17 @@
 
 ## License: MIT
 
-##Cite paper: Végh & Douka 2023. SpecieScan: Automated Species Identification Algorithm for Bone Fragments from MALDI-ToF MS Spectra
+## Cite paper: Végh & Douka 2023. SpecieScan: Automated Species Identification Algorithm for Bone Fragments from MALDI-ToF MS. Bioinformatics
 
 ## & cite Github DOI: 10.5281/zenodo.8055426
 
 ## Authors: Emese Végh
 
 ## Contact: Emese Végh[mesve3@gmail.com]
+
+## The following Data Preprocessing code was adapted from 'Codlin, M. C., & Richter, K. K. (2022). Data for ZooMS analysis of avian fauna from Teotihuacan, Mexico, for Codlin et al. 2022 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6363114
+Codlin MC, Douka K, Richter KK (2022)' and 'An application of zooms to identify archaeological avian fauna from Teotihuacan, Mexico. Journal of Archaeological Science;148:105692.'
+and further developed here. 
 
 ```
 
