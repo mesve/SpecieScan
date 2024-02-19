@@ -16,8 +16,7 @@
 
 ## Contact: Emese Végh[mesve3@gmail.com]
 
-## The following Data Preprocessing code was adapted from 'Codlin, M. C., & Richter, K. K. (2022). Data for ZooMS analysis of avian fauna from Teotihuacan, Mexico, for Codlin et al. 2022 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6363114
-Codlin MC, Douka K, Richter KK (2022)' and 'An application of zooms to identify archaeological avian fauna from Teotihuacan, Mexico. Journal of Archaeological Science;148:105692.'
+## The following Data Preprocessing code was adapted from 'Maria Codlin, & Richter, K. K. (2022). ZooMS processing and clustering workflow using MALDIquant. Zenodo. https://doi.org/10.5281/zenodo.6366234'
 and further developed here. 
 
 ```
