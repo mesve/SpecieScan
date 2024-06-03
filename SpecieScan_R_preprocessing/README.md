@@ -8,7 +8,8 @@
 # License: MIT
 
 # Credits
-* Cite SpecieScan algorithm: DOI: 10.5281/zenodo.8055426 and paper Végh & Douka 2023. SpecieScan: Semi-Automated Species Identification of Bone Fragments from MALDI-ToF MS Spectra. Bioinformatics (under review)
+* Cite SpecieScan algorithm: DOI: 10.5281/zenodo.8055426 and paper Végh & Douka 2023. SpecieScan: semi-automated taxonomic identification of bone collagen peptides from MALDI-ToF-MS. Bioinformatics 40(2), 1-12.
+
 
 * The Preprocessing code was adapted and subsequently changed from the following code and paper: Maria Codlin, & Richter, K. K. (2022). ZooMS processing and clustering workflow using MALDIquant. Zenodo
 Codlin MC, Douka K, Richter KK (2022). An application of zooms to identify archaeological avian fauna from Teotihuacan, Mexico. Journal of Archaeological Science;148:105692.
