@@ -9,7 +9,7 @@
 ## License: MIT
 
 ## Cite paper: Végh & Douka 2023. SpecieScan: Automated Species Identification Algorithm for Bone Fragments from MALDI-ToF MS. Bioinformatics
-
+ 40(2), 1-12.
 ## & cite Github DOI: 10.5281/zenodo.8055426
 
 ## Authors: Emese Végh
