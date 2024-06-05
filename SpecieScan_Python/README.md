@@ -118,8 +118,7 @@ Contributions are welcome and greatly appreciated! If you have suggestions, impr
 ## License
 
 This project is licensed under the MIT License. See LICENSE.txt for more information.
-Cite paper: Végh & Douka 2023. SpecieScan: Automated Species Identification Algorithm for Bone Fragments from MALDI-ToF MS Spectra.
-            DOI:
+Cite paper: Végh & Douka 2023. SpecieScan: semi-automated taxonomic identification of bone collagen peptides from MALDI-ToF-MS. Bioinformatics 40(2), 1-12. DOI: https://doi.org/10.1093/bioinformatics/btae054
 & cite code: DOI: 10.5281/zenodo.8055426
 
 
